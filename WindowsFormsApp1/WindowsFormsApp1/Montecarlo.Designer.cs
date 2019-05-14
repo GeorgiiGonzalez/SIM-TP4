@@ -361,7 +361,7 @@
             this.bnt_limpiar.ForeColor = System.Drawing.Color.Black;
             this.bnt_limpiar.Image = ((System.Drawing.Image)(resources.GetObject("bnt_limpiar.Image")));
             this.bnt_limpiar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.bnt_limpiar.Location = new System.Drawing.Point(300, 655);
+            this.bnt_limpiar.Location = new System.Drawing.Point(296, 655);
             this.bnt_limpiar.Margin = new System.Windows.Forms.Padding(4);
             this.bnt_limpiar.Name = "bnt_limpiar";
             this.bnt_limpiar.Size = new System.Drawing.Size(187, 66);
